@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { Pencil, Plus, Search, Trash } from "lucide-react";
 
 const AppHeader = ({ selectedContact, onAddClick, onEditClick, onRemoveClick, onFilterContacts }) => {
